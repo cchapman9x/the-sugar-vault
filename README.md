@@ -11,7 +11,7 @@
 
 <hr>
 
-### Project Overview
+## Project Overview
 
 The Sugar Vault is an Arduino-controlled candy dispenser that uses an Arduino Nano, NEMA 17 stepper motor, A4988 stepper motor driver, push button, LED indicator, DC-DC buck converter, and 3D-printed mechanical parts to dispense candy.
 
@@ -21,7 +21,7 @@ This project was built to refresh and strengthen my basic engineering skills whi
 
 <hr>
 
-### Main Components
+## Main Components
 
 ## Main Components
 
