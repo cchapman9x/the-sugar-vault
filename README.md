@@ -36,17 +36,17 @@ This project was built to refresh and strengthen my basic engineering skills whi
 
   <tr>
     <td>A4988 stepper motor driver</td>
-    <td><img src="04-media/images/components/a4988-stepper-driver.jpg" alt="A4988 stepper motor driver" width="120"></td>
+    <td><img src="04-media/images/components/A4988-stepper-motor-driver.jpg" alt="A4988 stepper motor driver" width="120"></td>
   </tr>
 
   <tr>
     <td>NEMA 17 stepper motor</td>
-    <td><img src="04-media/images/components/nema-17-stepper-motor.jpg" alt="NEMA 17 stepper motor" width="120"></td>
+    <td><img src="04-media/images/components/nema-17.jpg" alt="NEMA 17 stepper motor" width="120"></td>
   </tr>
 
   <tr>
     <td>12V 2A power supply</td>
-    <td><img src="04-media/images/components/12v-2a-power-supply.jpg" alt="12V 2A power supply" width="120"></td>
+    <td><img src="04-media/images/components/12V-2A-power-supply.jpg" alt="12V 2A power supply" width="120"></td>
   </tr>
 
   <tr>
