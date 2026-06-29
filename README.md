@@ -51,12 +51,12 @@ This project was built to refresh and strengthen my basic engineering skills whi
 
   <tr>
     <td>DC-DC buck converter</td>
-    <td><img src="04-media/images/components/dc-dc-buck-converter.jpg" alt="DC-DC buck converter" width="120"></td>
+    <td><img src="04-media/images/components/5V-DC-DC-buck-converter.jpg" alt="DC-DC buck converter" width="120"></td>
   </tr>
 
   <tr>
     <td>Push button</td>
-    <td><img src="04-media/images/components/push-button.jpg" alt="Push button" width="120"></td>
+    <td><img src="04-media/images/components/momentary-push-button.jpg" alt="Push button" width="120"></td>
   </tr>
 
   <tr>
@@ -66,17 +66,17 @@ This project was built to refresh and strengthen my basic engineering skills whi
 
   <tr>
     <td>2.2 kΩ resistor</td>
-    <td><img src="04-media/images/components/2-2k-resistor.jpg" alt="2.2 kΩ resistor" width="120"></td>
+    <td><img src="04-media/images/components/2.2k-ohm-resistor.jpg" alt="2.2 kΩ resistor" width="120"></td>
   </tr>
 
   <tr>
     <td>220 µF 25V electrolytic capacitor</td>
-    <td><img src="04-media/images/components/220uf-25v-capacitor.jpg" alt="220 µF 25V electrolytic capacitor" width="120"></td>
+    <td><img src="04-media/images/components/220uF-25V-electrolytic-capacitor.jpg" alt="220 µF 25V electrolytic capacitor" width="120"></td>
   </tr>
 
   <tr>
-    <td>3D-printed mechanical parts</td>
-    <td><img src="04-media/images/components/3d-printed-parts.jpg" alt="3D-printed mechanical parts" width="120"></td>
+    <td>Red & White PETG</td>
+    <td><img src="04-media/images/components/red-petg.jpg" alt="3D-printed parts" width="120"></td>
   </tr>
 </table>
 
