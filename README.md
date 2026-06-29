@@ -23,6 +23,63 @@ This project was built to refresh and strengthen my basic engineering skills whi
 
 ### Main Components
 
+## Main Components
 
+<table>
+  <tr>
+    <th>Component</th>
+    <th>Image</th>
+  </tr>
+
+  <tr>
+    <td>Arduino Nano</td>
+    <td><img src="04-media/images/components/arduino-nano.jpg" alt="Arduino Nano" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>A4988 stepper motor driver</td>
+    <td><img src="04-media/images/components/a4988-stepper-driver.jpg" alt="A4988 stepper motor driver" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>NEMA 17 stepper motor</td>
+    <td><img src="04-media/images/components/nema-17-stepper-motor.jpg" alt="NEMA 17 stepper motor" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>12V 2A power supply</td>
+    <td><img src="04-media/images/components/12v-2a-power-supply.jpg" alt="12V 2A power supply" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>DC-DC buck converter</td>
+    <td><img src="04-media/images/components/dc-dc-buck-converter.jpg" alt="DC-DC buck converter" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>Push button</td>
+    <td><img src="04-media/images/components/push-button.jpg" alt="Push button" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>Green LED</td>
+    <td><img src="04-media/images/components/green-led.jpg" alt="Green LED" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>2.2 kΩ resistor</td>
+    <td><img src="04-media/images/components/2-2k-resistor.jpg" alt="2.2 kΩ resistor" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>220 µF 25V electrolytic capacitor</td>
+    <td><img src="04-media/images/components/220uf-25v-capacitor.jpg" alt="220 µF 25V electrolytic capacitor" width="120"></td>
+  </tr>
+
+  <tr>
+    <td>3D-printed mechanical parts</td>
+    <td><img src="04-media/images/components/3d-printed-parts.jpg" alt="3D-printed mechanical parts" width="120"></td>
+  </tr>
+</table>
 
 
