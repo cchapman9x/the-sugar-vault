@@ -23,8 +23,6 @@ This project was built to refresh and strengthen my basic engineering skills whi
 
 ## Main Components
 
-## Main Components
-
 <table>
   <tr>
     <th>Component</th>
