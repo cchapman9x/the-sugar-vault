@@ -7,9 +7,7 @@
 
 <hr>
 
-### Project Status
-
-**Status:** Completed ✅
+**Project Status:** Completed ✅
 
 <hr>
 
