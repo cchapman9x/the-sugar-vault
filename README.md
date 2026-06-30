@@ -78,6 +78,11 @@ This project was built to refresh and strengthen my basic engineering skills whi
     <td>Red & White PETG</td>
     <td><img src="04-media/images/components/red-petg.jpg" alt="3D-printed parts" width="120"></td>
   </tr>
+
+  <tr>
+    <td>12" Clear Acrylic Tube</td>
+    <td><img src="04-media/images/components/12in-clear-acrylic-tube.jpg" alt="3D-printed parts" width="120"></td>
+  </tr>
 </table>
 
 
