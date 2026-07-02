@@ -1,3 +1,5 @@
+// Please not that this code was made using a breadboard so the wire colors will be different than what's on the schematics
+
 const int dirPin = A2; // Green wire
 const int stePin = A3; // Orange wire
 const int buttonPin = 3; // Blue wire
