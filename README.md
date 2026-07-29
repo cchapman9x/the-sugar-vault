@@ -86,4 +86,8 @@ This project was built to refresh and strengthen my basic engineering skills whi
   </tr>
 </table>
 
-![[01-docs/the-sugar-vault-main.pdf]]
+<hr>
+
+## Full Project Documentation
+
+📄 [Open the complete Sugar Vault technical report](01-docs/the-sugar-vault-main.pdf)
